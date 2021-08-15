@@ -5,7 +5,7 @@ import gzip
 import os
 import urllib
 import numpy
-I am tetsing
+
 
 """Functions for downloading and reading MNIST data."""
 SOURCE_URL = 'http://yann.lecun.com/exdb/mnist/'
