@@ -9,6 +9,7 @@ import numpy
 
 """Functions for downloading and reading MNIST data."""
 SOURCE_URL = 'http://yann.lecun.com/exdb/mnist/'
+# I am testing this
 
 
 def maybe_download(filename, work_directory):
